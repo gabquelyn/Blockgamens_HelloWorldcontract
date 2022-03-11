@@ -21,4 +21,3 @@ contract Hello_World{
         return message;
     }
 }
-s
